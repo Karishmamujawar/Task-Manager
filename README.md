@@ -3,8 +3,9 @@
 This "TASK MANAGER" is CRUD application developed using 
 
 React js : Frontend,
-Flask  :  Backend,
+Flask and Python :  Backend,
 SQLlite : Database.
+Command Prompt : To run the commands
 
 OUTPUT:
 
