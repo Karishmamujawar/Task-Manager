@@ -1,5 +1,7 @@
 # Task Manager
 
+This "TASK MANAGER" is CRUD application developed using React js as Frontend and Flask as a Backend. 
+
 OUTPUT:
 
 
